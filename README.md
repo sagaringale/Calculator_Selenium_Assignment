@@ -1,6 +1,6 @@
 #
 
-# Calculator_Selenium
+# Calculator_Selenium_Assignemnt
 
 This project was generated with [Selenium with java]
 
