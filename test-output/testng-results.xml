@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38267" started-at="2019-08-20T15:40:19Z" finished-at="2019-08-20T15:40:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38267" started-at="2019-08-20T15:40:19Z" finished-at="2019-08-20T15:40:57Z">
+      <class name="com.jbk.Calculator.MainClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.jbk.Calculator.MainClass@15d3402]" name="setUp" is-config="true" duration-ms="21786" started-at="2019-08-20T16:40:19Z" finished-at="2019-08-20T16:40:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loadElement()[pri:0, instance:com.jbk.Calculator.MainClass@15d3402]" name="loadElement" is-config="true" duration-ms="358" started-at="2019-08-20T16:40:41Z" finished-at="2019-08-20T16:40:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadElement -->
+        <test-method status="PASS" signature="multiplication()[pri:0, instance:com.jbk.Calculator.MainClass@15d3402]" name="multiplication" duration-ms="3475" started-at="2019-08-20T16:40:41Z" finished-at="2019-08-20T16:40:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplication -->
+        <test-method status="PASS" signature="loadElement()[pri:0, instance:com.jbk.Calculator.MainClass@15d3402]" name="loadElement" is-config="true" duration-ms="203" started-at="2019-08-20T16:40:44Z" finished-at="2019-08-20T16:40:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadElement -->
+        <test-method status="PASS" signature="division()[pri:1, instance:com.jbk.Calculator.MainClass@15d3402]" name="division" duration-ms="3509" started-at="2019-08-20T16:40:45Z" finished-at="2019-08-20T16:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- division -->
+        <test-method status="PASS" signature="loadElement()[pri:0, instance:com.jbk.Calculator.MainClass@15d3402]" name="loadElement" is-config="true" duration-ms="216" started-at="2019-08-20T16:40:48Z" finished-at="2019-08-20T16:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadElement -->
+        <test-method status="PASS" signature="addition()[pri:2, instance:com.jbk.Calculator.MainClass@15d3402]" name="addition" duration-ms="3682" started-at="2019-08-20T16:40:48Z" finished-at="2019-08-20T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addition -->
+        <test-method status="PASS" signature="loadElement()[pri:0, instance:com.jbk.Calculator.MainClass@15d3402]" name="loadElement" is-config="true" duration-ms="204" started-at="2019-08-20T16:40:52Z" finished-at="2019-08-20T16:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadElement -->
+        <test-method status="PASS" signature="subtraction()[pri:3, instance:com.jbk.Calculator.MainClass@15d3402]" name="subtraction" duration-ms="3765" started-at="2019-08-20T16:40:52Z" finished-at="2019-08-20T16:40:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtraction -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.jbk.Calculator.MainClass@15d3402]" name="tearDown" is-config="true" duration-ms="1047" started-at="2019-08-20T16:40:56Z" finished-at="2019-08-20T16:40:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.jbk.Calculator.MainClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
